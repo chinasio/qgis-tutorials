@@ -43,6 +43,7 @@ The tutorials are also available in following langugages:
 - `Ukrainian <http://www.qgistutorials.com/uk/>`_ (Translation by: *Igor Konovalov*)
 - `Vietnamese <http://www.qgistutorials.com/vi/>`_ (Translation by: *Hang Nguyen Thuy*)
 
+
 If you would like to help translate these tutorials in your langugage, please
 `Join the team on Transifex
 <https://www.transifex.com/projects/p/qgis-tutorials/>`_.
